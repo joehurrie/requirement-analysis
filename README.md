@@ -70,7 +70,7 @@ Example (Booking System):
 
 Use Case Diagrams offer a visual depiction of how different **actors** interact with the **system**.
 
-![Use Case Diagram](\alx-booking-uc.png)
+![Use Case Diagram](assets/images/alx-booking-uc.png)
 
 Key Actors:
 - Guest
