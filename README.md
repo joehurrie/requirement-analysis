@@ -6,7 +6,7 @@ This repository documents the **Requirement Analysis** phase for a **Booking Man
 ---
 
 ##  What is Requirement Analysis?
-**Requirement Analysis** is a crucial phase in the **Software Development Life Cycle (SDLC)** where stakeholder needs are identified, refined, and documented. It transforms ambiguous ideas into actionable and structured documentation that guides developers in building effective solutions.
+**Requirement Analysis** is a phase in the **Software Development Life Cycle (SDLC)** where stakeholder needs are identified, refined, and documented. Transforming\\ ambiguous ideas into actionable and structured documentation that guides developers in building effective solutions.
 
 ### Importance in SDLC:
 - Establishes a **clear project scope**
